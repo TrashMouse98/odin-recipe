@@ -1,2 +1,2 @@
-# odin-recipie
+# odin-recipe
 Odin Project
